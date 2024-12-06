@@ -1,3 +1,5 @@
+// COPYRIGHT (C) 2024 SWATHYMOL SAJEEV | GNU General Public License v3.0
+
 const slidesContainer = document.querySelector(".slides-container");
 const slides = document.querySelectorAll(".slide");
 const nextBtn = document.querySelector("#nextBtn");
